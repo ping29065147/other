@@ -20,7 +20,7 @@ int main()
         }
     }
 
-    printf("guess a four digits number\n\n");
+    printf("guess a four digit number\n\n");
     for(;;a=0, b=0, t++){
         printf("\n:");
         scanf("%d", &enter);
